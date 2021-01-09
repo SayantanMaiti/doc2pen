@@ -1,30 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.2d8739de.chunk.css",
-    "main.js": "./static/js/main.863df975.chunk.js",
-    "main.js.map": "./static/js/main.863df975.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.54d524ef.js",
-    "runtime-main.js.map": "./static/js/runtime-main.54d524ef.js.map",
+    "main.css": "./static/css/main.a85dfab4.chunk.css",
+    "main.js": "./static/js/main.673863a7.chunk.js",
+    "main.js.map": "./static/js/main.673863a7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ff84791c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ff84791c.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "./static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.cc8f429a.chunk.js": "./static/js/2.cc8f429a.chunk.js",
-    "static/js/2.cc8f429a.chunk.js.map": "./static/js/2.cc8f429a.chunk.js.map",
-    "static/js/3.d9d42e07.chunk.js": "./static/js/3.d9d42e07.chunk.js",
-    "static/js/3.d9d42e07.chunk.js.map": "./static/js/3.d9d42e07.chunk.js.map",
+    "static/js/2.22674b7d.chunk.js": "./static/js/2.22674b7d.chunk.js",
+    "static/js/2.22674b7d.chunk.js.map": "./static/js/2.22674b7d.chunk.js.map",
+    "static/js/3.888a6707.chunk.js": "./static/js/3.888a6707.chunk.js",
+    "static/js/3.888a6707.chunk.js.map": "./static/js/3.888a6707.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "./static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.2d8739de.chunk.css.map": "./static/css/main.2d8739de.chunk.css.map",
-    "static/js/2.cc8f429a.chunk.js.LICENSE.txt": "./static/js/2.cc8f429a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/Poppins-Regular.1421a94e.otf",
-    "static/media/blank1.png": "./static/media/blank1.069db253.png",
-    "static/media/blank2.jpg": "./static/media/blank2.d22e9725.jpg",
-    "static/media/onlymargin.jpg": "./static/media/onlymargin.69c96d24.jpg",
-    "static/media/ruled2.jpg": "./static/media/ruled2.e7e459ac.jpg"
+    "static/css/main.a85dfab4.chunk.css.map": "./static/css/main.a85dfab4.chunk.css.map",
+    "static/js/2.22674b7d.chunk.js.LICENSE.txt": "./static/js/2.22674b7d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Poppins-Regular.1421a94e.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.54d524ef.js",
+    "static/js/runtime-main.ff84791c.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.cc8f429a.chunk.js",
-    "static/css/main.2d8739de.chunk.css",
-    "static/js/main.863df975.chunk.js"
+    "static/js/2.22674b7d.chunk.js",
+    "static/css/main.a85dfab4.chunk.css",
+    "static/js/main.673863a7.chunk.js"
   ]
 }
